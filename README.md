@@ -1,4 +1,7 @@
-# comentarios
+# Comentarios
+
+#### Este é um projeto feito durante o estudo de Vue.js
+Consiste em uma aplicação para adicionar comentários que pode ser integrado em comentários de algum serviço ou produto.
 
 ## Project setup
 ```
@@ -19,6 +22,8 @@ yarn build
 ```
 yarn lint
 ```
+
+Feito com Vue.js
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
